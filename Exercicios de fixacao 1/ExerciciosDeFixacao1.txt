@@ -1,0 +1,99 @@
+Nome: Ygor Cavalheiro
+
+Exercícios de fixação
+
+1. Dadas as premissas a seguir, verifique quais são as sentenças que representam a conclusão correta:
+
+I - Cavalos são animais. Animais possuem patas. Logo:
+    a) Cavalos possuem patas. x
+    b) Todos os animais são cavalos.
+    c) Os cavalos possuem quatro patas.
+
+
+II - Retângulos são figuras que têm ângulos. Temos uma figura sem nenhum ângulo. Logo:
+    a) Essa figura pode ser círculo. talvez seja válido também
+    b) Não é possível tirar conclusões.
+    c) Essa figura não é um retângulo. x
+
+
+	III - Se o verde é forte, o vermelho é suave. Se o amarelo é suave, o azul é médio. Mas ou o verde
+    é forte ou o amarelo é suave. Forte, suave e médio são as únicas tonalidades possíveis. 
+    Logo:
+    a) O azul é médio.
+    b) Ou o vermelho é suave ou o azul é médio. x
+    c) O amarelo e o vermelho são suaves.
+
+2. Responda:
+    a) Qual é a importância lógica para a informática?
+A lógica é importante para todas as áreas da informática, desde o hardware até o software, pois auxilia tanto
+na criação de novas tecnologias quanto na elaboração de resoluções de problemas para que os sistemas sejam cada
+vez mais eficientes.
+
+
+    b) Descreva algumas atividades relacionadas ao seu dia-a-dia nas quais o uso da lógica é presente e perceptível.
+Um exemplo que podemos usar é logo no acordar:
+
+    • eu acordo;
+    • me sento na cama;
+    • coloco meu chinelo;
+    • me levanto;
+    • vou até a cozinha;
+    • abro a geladeira;
+    • pego o leite;
+    • largo em cima da mesa;
+    • vou até o armário;
+    • pego minha caneca;
+    • pego o cereal;
+    • vou até a mesa novamente;
+    • sirvo o cereal na caneca;
+    • pego o leite;
+    • sirvo na caneca também;
+    • vou até o armário;
+    • pego uma colher;
+    • volto até a mesa;
+    • pego a caneca;
+    • me sento; 
+    • e por fim como o cereal.
+
+E assim vou seguindo várias sequências de instruções até o final do dia.
+
+
+    c) O que são argumentos?
+São ideias relacionadas entre si que em conjunto ajudam a solucionar um problema ou sanar uma dúvida.
+
+    d) Qual é a diferença entre argumentos dedutivos e argumentos indutivos? Exemplifique.
+Argumentos dedutivos são aqueles em que a conclusão é baseada em análises de situações e fatos. 
+Já argumentos indutivos são conclusões baseadas em dados, analogia e comparação. 
+
+
+3. Analise e descreva uma maneira de mover os discos do pino A para o pino C, mantendo a mesma ordem.
+Em hipótese nenhuma um disco maior poderá ficar sobre um menor. Para que um disco seja movido de A para C,
+deve-se  passar pelo pino B e vice-versa.
+
+Passo 1 - passe o disco 1 para o pino B
+Passo 2 - passe o disco 1 para o pino C
+Passo 3 - passe o disco 2 para o pino B
+Passo 4 - passe o disco 1 para o pino B
+Passo 5 - passe o disco 1 para o pino A
+Passo 6 - passe o disco 2 para o pino C
+Passo 7 - passe o disco 1 para o pino B
+Passo 8 - passe o disco 1 para o pino C
+Passo 9 - passe o disco 3 para o pino B
+Passo 10 - passe o disco 1 para o pino B
+Passo 11 - passe o disco 1 para o pino A
+Passo 12 - passe o disco 2 para o pino B
+Passo 13 - passe o disco 1 para o pino B
+Passo 14 - passe o disco 1 para o pino C
+Passo 15 - passe o disco 2 para o pino A
+Passo 16 - passe o disco 1 para o pino B
+Passo 17 - passe o disco 1 para o pino A
+Passo 18 - passe o disco 3 para o pino C
+Passo 19 - passe o disco 1 para o pino B
+Passo 20 - passe o disco 1 para o pino C
+Passo 21 - passe o disco 2 para o pino B
+Passo 22 - passe o disco 1 para o pino B
+Passo 23 - passe o disco 1 para o pino A
+Passo 24 - passe o disco 2 para o pino C
+Passo 25 - passe o disco 1 para o pino B
+Passo 26 - passe o disco 1 para o pino C
+

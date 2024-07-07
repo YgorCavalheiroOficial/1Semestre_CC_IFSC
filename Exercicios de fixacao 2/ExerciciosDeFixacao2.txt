@@ -1,0 +1,107 @@
+Nome: Ygor Cavalheiro
+
+2.5 Exercícios de fixação
+
+    1. Qual é a principal função dos algoritmos?
+
+É uma sequência lógica e finita de instruções para chegar a um objetivo.
+
+    2. Pesquise uma aplicação para os algoritmos, diferente das citadas, explicando sua finalidade.
+Podemos realizar um algoritmo para calcular a nota média trimestral de um aluno, e como podemos realizar isso? 
+
+Podemos organizar essa ideia da seguinte forma.
+
+INÍCIO
+
+Insira as três notas do aluno:
+nota_1, nota_2, nota_3;
+
+Leia
+nota_1, nota_2, nota_3;
+
+Some 
+nota_1 + nota_2 + nota_3 = Guarde o resultado na variável soma;
+
+Calcule a média
+soma / 3 = Guarde o resultado na variável nota_final;
+
+Mostre 
+“A nota final do aluno é: ”, nota_final;
+
+FIM
+
+    3. Escolha uma das formas de representação de algoritmos e explique as suas características.
+
+Uma das representações que temos é a pseudolinguagem, que nada mais é do que as instruções que o computador deverá 
+entender para executar um programa só que escritas em português estruturado, um exemplo que se assemelha a pseudolinguagem
+é  a resposta da questão n°2.
+
+
+    4. Comparando-se o fluxograma  ao pseudocódigo, pode-se perceber que, no fluxograma, as variáveis não precisam ser declaradas. 
+    Entretanto existe uma similaridade na sequência de resolução das tarefas em ambos. Observe qual é a similaridade e comente-a.
+
+A similaridade entre as duas representações é a maneira em como as instruções são apresentadas, nas duas formas não é necessário
+apresentar as variáveis, apenas representar, porém, deve haver uma sequência na maneira em que as instruções são apresentadas, entrada de dados,
+processamento de dados e apresentação do resultado do processamento. 
+
+    5. Um cliente deseja fazer a consulta do saldo de sua conta corrente no computador, por meio de uma aplicação de home banking.
+    Suponha que o computador esteja ligado e conectado à Internet. A seguir , estão os passos que poderiam ser utilizados, porém,
+    foram colocados fora de ordem. Procure organizá-los na ordem correta. 
+
+    a) Inserir a senha. - n°5
+    b) Clicar no botão “OK” de acesso. - n°6
+    c) Selecionar a opção de saldo. - n°7
+    d) Encerrar a sessão.  - n°8
+    e) Abrir o navegador. - n° 1
+    f) Preencher dados do número da agência e conta. - n°4
+    g) Confirmar ou digitar o nome do usuário. - n°3
+    h) Fechar o navegador. - n°9
+    i) Digitar o endereço do site do banco. - n°2
+
+
+    6. De maneira semelhante ao exercício anterior, escreva a sequência dos passos para que um robô seja capaz de trocar uma lâmpada queimada
+    que está localizada no centro de uma sala. Há uma escada posicionada logo abaixo da lâmpada queimada, e o robô está frente à escada.
+
+INÍCIO
+Passo 1 - Pegue a lâmpada;
+Passo 2 - Suba na escada;
+Passo 3 - Retire a lâmpada queimada;
+Passo 4 - Coloque a lâmpada nova;
+Passo 5 - Desça da escada;
+Passo 6 - Teste o funcionamento da nova lâmpada;
+Passo 7 - Descarte adequadamente a lâmpada queimada.
+FIM
+
+    7. Considerando a expressão 5-4+2x4, escreva a sequência de operações que devem ser realizadas para que o cálculo apresente o resultado correto.
+    Observe a limitação de que apenas uma operação pode ser realizada de cada vez.
+
+INÍCIO
+Passo 1 - Resolva a equação (2x4);
+Passo 2 - Resolva a equação (5-4);
+Passo 3 - Resolva a equação do resultado de (2x4) + o resultado de (5-4);
+Passo 4 - Apresente o resultado da equação completa (5-4+2x4);
+FIM
+
+
+    8. Supondo que você possua uma calculadora simples, reescreva o algoritmo do exercício exercício 7 indicando as operações que devem ser realizadas
+    por meio das teclas que precisam ser acionadas.
+
+INÍCIO
+Passo 1 - Clique no número 5;
+Passo 2 - Clique no sinal (-);
+Passo 3 - Clique no número 4;
+Passo 4 - Clique no sinal (+);
+Passo 5 - Clique no número 2;
+Passo 6 - Clique no sinal (x);
+Passo 7 - Clique no número 4;
+Passo 8 - Clique no sinal (=);
+FIM
+
+    9. A Figura 2.3, chamada de grafo, apresenta círculos numerados, representando pontos a serem alcançados e setas com números , indicando o tempo necessário
+    para ir de um ponto a outro. Por exemplo, para ir de 2 até 5 o tempo necessário é 3.
+
+    a) Indique o percurso que consome o menor tempo, partindo de 1 para chegar em 12.
+        1 - 2 - 4 - 7 - 9 - 10 - 12
+
+    b) Aprensente um percurso que passe pelo menor número de pontos para, partindo do ponto 1, chegar ao 12.
+		1 - 2 - 5 - 7 - 9 - 12
